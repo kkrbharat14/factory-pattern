@@ -13,4 +13,5 @@ Preparing pizza Depends upon Way of Preparing and Also Ingredients
 Ingredients Differ for These two stores..
 
 
-Note --> 'Example Taken From Book HEAD First Design Pattern'
+Note --> 'Example Taken From The book HEAD First Design Patterns'
+
